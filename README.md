@@ -2,7 +2,7 @@
 [![Redes](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarcyJR)
 [![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcy-aparecido-de-oliveira-junior/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarcyJR&show_icons=true&theme=transparent)
+![Redes](https://github-readme-stats.vercel.app/api?username=DarcyJR&show_icons=true&theme=transparent)
 
 ## 📚 Minhas tecnologias:
 <div style="display:inline-block">
@@ -12,4 +12,7 @@
 <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="express js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+</div><hr>
+
+#### 📖 O que estou estudando:
+-[JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?kw=javascript&src=sac)
