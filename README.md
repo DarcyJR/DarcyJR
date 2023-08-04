@@ -1,5 +1,7 @@
 ### Olá, eu sou o Darcy Junior 👋 🖥️
-[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcy-aparecido-de-oliveira-junior/)
+[![Redes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darcy-aparecido-de-oliveira-junior/)<br/>
+
+📧darcyoliveirajunior@gmail.com <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarcyJR&show_icons=true&theme=transparent)
 
