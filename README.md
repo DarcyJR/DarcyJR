@@ -15,4 +15,4 @@
 </div><hr>
 
 #### 📖 O que estou estudando:
--[JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?kw=javascript&src=sac)
+- [JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?kw=javascript&src=sac)
